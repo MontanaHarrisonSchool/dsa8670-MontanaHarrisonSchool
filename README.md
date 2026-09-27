@@ -73,3 +73,14 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+Short paragraph:
+Version control in analytics can mean a lot of things, i will relate it to code and presentations both. For code, the need is obvious since you 
+can add or change something in code and it works until something later down the line breaks it. To understand where things "started" going wrong
+you often need to have version control to:
+1. Preserve a known working copy
+2. For troubleshooting issues occurring after a change, especially important if that exact change isn't the symptom but maybe the underlying issue.
+3. The reading specifically mentions probably one of the most utilized benefits of version control and that's the allow for experimentation without
+destroying the existing product. The best way i could relate this to real life is if you're playing a video game and you click the save button in a 
+backup copy before trying something new.
