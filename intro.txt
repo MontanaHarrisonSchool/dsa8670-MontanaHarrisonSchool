@@ -10,3 +10,4 @@ Favorite dataset or industry interest:
 I think the progress in bioengineering, specifically with things like alphafold and isomorphic labs are the most interesting field tome.
 
 One reason I am studying analytics:
+I am studying analytics to improve my skills mainly in machine learning and advanced statistical practices. The business side also helps to reinforce my problem solving and project organization.
